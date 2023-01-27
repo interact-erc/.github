@@ -7,4 +7,20 @@ INTERACT is a 5-year research project funded by the European Research Council (E
 ## Project description
 Most Natural Language Understanding (NLU) applications have unique information needs. Large collections of annotated data are necessary to achieve good performance under the supervised learning approach. In INTERACT, we tackle this fundamental limitation by breaking the distinction between annotation and training and develop a collaborative training paradigm. We aim to empower the learner with the ability to generate samples and ask labels for any complete or partial structure in the domain. If the learning algorithm could ask the right questions, minimal human annotation would be needed. To achieve this we combine an optimal human feedback strategy with compositional latent-state models. We work under the framework of spectral learning of weighted automata and grammars and experiment with NLU tasks of increasing complexity, from sequence and tree classification to parsing problems where the outputs are trees.
 
+## Team
+### Principal investigator
+- [Ariadna Quattoni](https://ariadnaquattoni.github.io)
+
+### Senior Researchers
+- [Xavier Carreras](https://xaviercarreras.github.io)
+- [Nadia Boukhelifa](https://scholar.google.com/citations?user=t-6tRgkAAAAJ&hl=en)
+
+### Post-Doctoral Students
+- [Audi Primadhanty](https://www.cs.upc.edu/~primadhanty/)
+
+### PhD Students
+- [Francesco Cazzaro](https://francescoczz.github.io)
+- [César González](https://github.com/cglez)
+- [Davide Locatelli](https://davidelct.com)
+
 <img src="/assets/erc_logo.png" alt="erc_logo" width="400"/>
