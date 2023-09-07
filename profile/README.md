@@ -21,6 +21,5 @@ Most Natural Language Understanding (NLU) applications have unique information n
 ### PhD Students
 - [Francesco Cazzaro](https://francescoczz.github.io)
 - [César González](https://github.com/cglez)
-- [Davide Locatelli](https://davidelct.com)
 
 <img src="/assets/erc_logo.png" alt="erc_logo" width="400"/>
